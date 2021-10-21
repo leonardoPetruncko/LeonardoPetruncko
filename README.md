@@ -1,6 +1,5 @@
  # 🎆 Seja Bem-Vindo 🎇
-## 🐱‍🚀 Adoro aprender sobre computação. Estou no segundo semestre da faculdade de Banco de Dados. Atualmente conheço programas como Python e Java.
-### 
+##  
 
 <div align="center">
   <a href="https://github.com/leonardoPetruncko">
@@ -14,6 +13,6 @@
 </div>
   
 
- #### “Seu futuro ainda não está escrito, o de ninguém está. Seu futuro será o que você quiser, então faça dele algo bom.”
-  #####                                                                            - Dr. Emmett Brown, Um bom futuro.
+ ### “Seu futuro ainda não está escrito, o de ninguém está. Seu futuro será o que você quiser, então faça dele algo bom.”
+  ####                                                                            - Dr. Emmett Brown, Um bom futuro.
   
