@@ -14,8 +14,6 @@
 </div>
   
 
- ####
-  
- ##### “Seu futuro ainda não está escrito, o de ninguém está. Seu futuro será o que você quiser, então faça dele algo bom.”
-  ######                                                                             - Dr. Emmett Brown, Um bom futuro.
+ #### “Seu futuro ainda não está escrito, o de ninguém está. Seu futuro será o que você quiser, então faça dele algo bom.”
+  #####                                                                             - Dr. Emmett Brown, Um bom futuro.
   
