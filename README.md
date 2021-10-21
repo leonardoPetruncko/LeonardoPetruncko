@@ -1,4 +1,4 @@
-### Seja Bem-Vindo! Eu sou Leonardo Petruncko.
+### Seja Bem-Vindo!!!
 
 <div align="center">
   <a href="https://github.com/leonardoPetruncko">
