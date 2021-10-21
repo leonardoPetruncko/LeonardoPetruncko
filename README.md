@@ -1,4 +1,5 @@
-# Seja Bem-Vindo!!!
+# Seja Bem-Vindo !!!
+##
 
 <div align="center">
   <a href="https://github.com/leonardoPetruncko">
@@ -8,12 +9,12 @@
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Theus-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a><img align="right" alt="rocket" height="160" width="200" src="https://media.giphy.com/media/26tOVYyDDVtxY6gr6/giphy.gif"></a>
+  <a><img align="right" alt="rocket" height="180" width="230" src="https://media.giphy.com/media/26tOVYyDDVtxY6gr6/giphy.gif"></a>
 </div>
   
 
- ##
+ ###
   
- ### “Seu futuro ainda não está escrito, o de ninguém está. Seu futuro será o que você quiser, então faça dele algo bom.”
-  ####                                                                             - Dr. Emmett Brown, Um bom futuro.
+ #### “Seu futuro ainda não está escrito, o de ninguém está. Seu futuro será o que você quiser, então faça dele algo bom.”
+  #####                                                                             - Dr. Emmett Brown, Um bom futuro.
   
