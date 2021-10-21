@@ -1,5 +1,5 @@
  # 🎆 Seja Bem-Vindo 🎇
-## 🐱‍🚀 Adoro aprender sobre computação. Sempre procuro oportunidades para ganhar experiência com meu trabalho e melhorá-lo. Estou no segundo semestre da faculdade de banco de dados. Atualmente conheço programas como Python e Java. Pretendo me especializar na área de Engenheiro de Dados.
+## 🐱‍🚀 Adoro aprender sobre computação. Estou no segundo semestre da faculdade de Banco de Dados. Atualmente conheço programas como Python e Java.
 ### 
 
 <div align="center">
