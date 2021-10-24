@@ -1,4 +1,4 @@
- # 🎆 Seja Bem-Vindo 🎇
+ # 🎇 Seja Bem-Vindo 🎇
 
 <div align="center">
   <a href="https://github.com/leonardoPetruncko">
