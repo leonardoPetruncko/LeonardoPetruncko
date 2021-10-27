@@ -10,16 +10,16 @@
  
  <h3 align="center">
 
-Seja Bem-vindo !
-<br>
+Seja Bem-vindo ! 
+Sou Estudante de Banco de Dados - Centro Universitário Senac.
+ 
+Programação:  • java | • JavaScript | • Python. <br>
+Web & Database: • HTML | • CSS | • MySQL | • NoSQL. <br>
+Tecnologia: • Git | • Docker | • Visual Studio | • Eclipse | • Spring Boot | • MongoDB | • Postman. <br>
 
 </h3>
 
-```
-Estudante de Banco de Dados - Centro Universitário Senac.
-Atualmente conheço programações como Python , Java , HTML, CSS e JAVASCRIPT.
-
-```
+<br>
 
 <div align="center">
   <a href="https://github.com/leonardoPetruncko">
