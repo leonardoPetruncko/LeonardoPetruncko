@@ -13,9 +13,9 @@
 Seja Bem-vindo ! 
 Sou Estudante de Banco de Dados - Centro Universitário Senac.
  
-Programação:  • java | • JavaScript | • Python. <br>
-Web & Database: • HTML | • CSS | • MySQL | • NoSQL. <br>
-Tecnologia: • Git | • Docker | • Visual Studio | • Eclipse | • Spring Boot | • MongoDB | • Postman. <br>
+Programação:  • java • JavaScript • Python. <br>
+Web & Database: • HTML • CSS • MySQL • NoSQL. <br>
+Tecnologia: • Git • Docker • Visual Studio • Eclipse • Spring Boot • MongoDB • Postman • MS Office. <br>
 
 </h3>
 
