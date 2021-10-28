@@ -13,7 +13,7 @@
 Seja Bem-vindo ! 
 Sou Estudante de Banco de Dados.
  
-Programação:  • java • JavaScript • Python. <br>
+Programação:  • Java • JavaScript • Python. <br>
 Web & Database: • HTML • CSS • MySQL • NoSQL. <br>
 Tecnologia: • Git • Docker • Jupyter • Visual Studio • Eclipse • Spring Boot • MongoDB • Postman • Django • Firebase • NodeJS • MS Office. <br>
 
