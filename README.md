@@ -1,5 +1,5 @@
 <h4 align="center">
-
+ 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif)
 <hr> 
  <h3 align="center">
@@ -7,7 +7,7 @@
 Seja Bem-vindo ! 
 Sou Estudante de Banco de Dados.
  
-Programação:  • Java • JavaScript. <br>
+Programação:  • Java • JavaScript • Python <br>
 Web & Database: • HTML • CSS • MySQL. <br>
 Tecnologia: • Git • Docker • Jupyter • Visual Studio • Eclipse • Spring Boot • MongoDB • Postman • Django • Firebase • NodeJS • MS Office. <br>
 
@@ -32,7 +32,9 @@ Tecnologia: • Git • Docker • Jupyter • Visual Studio • Eclipse • Spr
  
 </h3>
 
-<div align="center">
-  <a href="https://github.com/leonardoPetruncko">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=leonardoPetruncko&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   
+ <div  align="center">
+ <a href="https://github.com/leonardoPetruncko"></a>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardoPetruncko&hide_border=true&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoPetruncko&hide_border=true&theme=midnight-purple&show_icons=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPetruncko&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true">
+</div>
