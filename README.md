@@ -6,9 +6,9 @@
   
 Desenvolvedor de Software.
  
-Programação: Java  JavaScript  Python <br>
-Web & Database:  HTML  CSS  MySQL  <br>
-Tecnologias:  Git  Docker  Jupyter  Visual Studio  Eclipse  Spring Boot  MongoDB  Postman  Django  Firebase  NodeJS  <br>
+Programações: Java,  JavaScript e Python. <br> <br>
+Web & Database:  HTML,  CSS  e  MySQL.  <br> <br>
+Experiências com:  Git, Docker, Jupyter, Spring Boot, MongoDB, Postman, Django, Firebase e NodeJS.  <br>
 
 </h3>
 
