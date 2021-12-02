@@ -4,12 +4,11 @@
 <hr> 
  <h3 align="center">
   
-Seja Bem-vindo ! 
-Sou Estudante de Banco de Dados.
+Desenvolvedor de Software.
  
-Programação:  • Java • JavaScript • Python <br>
-Web & Database: • HTML • CSS • MySQL. <br>
-Tecnologia: • Git • Docker • Jupyter • Visual Studio • Eclipse • Spring Boot • MongoDB • Postman • Django • Firebase • NodeJS • MS Office. <br>
+Programação: Java  JavaScript  Python <br>
+Web & Database:  HTML  CSS  MySQL  <br>
+Tecnologias:  Git  Docker  Jupyter  Visual Studio  Eclipse  Spring Boot  MongoDB  Postman  Django  Firebase  NodeJS  <br>
 
 </h3>
 
