@@ -34,6 +34,7 @@ Experiências com:  Git, Docker, Jupyter, Spring Boot, MongoDB, Postman, Django,
  <div  align="center">
  <a href="https://github.com/leonardoPetruncko"></a>
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardoPetruncko&hide_border=true&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoPetruncko&hide_border=true&theme=midnight-purple&show_icons=true"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPetruncko&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoPetruncko&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true">   
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoPetruncko&hide_border=true&theme=midnight-purple&show_icons=true"/>
+     
 </div>
