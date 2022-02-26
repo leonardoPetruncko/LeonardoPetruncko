@@ -7,8 +7,6 @@ Desenvolvedor de Software.
 Programações: Java, JavaScript, Python, HTML, CSS e SQL. 
 <br> Tecnologias: Git, Docker, SpringBoot, MongoDB, Postman, NodeJS e MS Office. 
 <br> Metodologias: Modelo Espiral e Scrum.
-<br>
-  Portfólio: https://leonardopetruncko.github.io/
   
   
 </h3>
@@ -27,7 +25,8 @@ Programações: Java, JavaScript, Python, HTML, CSS e SQL.
  <img  alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
  <br><br>
   <a href="https://www.linkedin.com/in/leonardo-petruncko-4051971a2/" target="_blank"><img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
- 
+ <br> <br>
+ Portfólio: https://leonardopetruncko.github.io/
 </h3>
 
  <div  align="center">
