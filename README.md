@@ -7,7 +7,10 @@ Desenvolvedor de Software.
 Programações: Java, JavaScript, Python, HTML, CSS e SQL. 
 <br> Tecnologias: Git, Docker, SpringBoot, MongoDB, Postman, NodeJS e MS Office. 
 <br> Metodologias: Modelo Espiral e Scrum.
-
+<br>
+  Portfólio: https://leonardopetruncko.github.io/
+  
+  
 </h3>
 
 <h2 align="center" >
