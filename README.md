@@ -2,11 +2,10 @@
  
  <h3 align="center" height = 10px width = 5px >
   
-Desenvolvedor de Software.
+Desenvolvedor de Front-End.
   
 Programações: Java, JavaScript, CSS e SQL. 
-<br> Tecnologias: Git, Docker, SpringBoot, MongoDB, Postman, NodeJS e MS Office. 
-<br> Metodologias: Modelo Espiral e Scrum.
+<br> Tecnologias: Git, SpringBoot, Postman e Pacote Office.
   
   
 </h3>
@@ -20,7 +19,6 @@ Programações: Java, JavaScript, CSS e SQL.
  <img  alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain-wordmark.svg">
  <img  alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-plain.svg">
  <img  alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg">
- <img  alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original-wordmark.svg">
  <img  alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
  <br><br>
   <a href="https://www.linkedin.com/in/leonardo-petruncko-4051971a2/" target="_blank"><img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
