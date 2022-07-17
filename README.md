@@ -2,7 +2,7 @@
  
  <h3 align="center" height = 10px width = 5px >
   
-Desenvolvedor de Front-End.
+Desenvolvedor Front-End.
   
 Programações: Java, JavaScript, CSS e SQL. 
 <br> Tecnologias: Git, SpringBoot, Postman e Pacote Office.
