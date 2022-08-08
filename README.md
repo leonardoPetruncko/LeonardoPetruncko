@@ -20,7 +20,7 @@
  <br> <br>
 
 <h3 align="center">
-<a href="leonardopetruncko.github.io">Portfolio</a>
+<a href="https://leonardopetruncko.github.io/">Portfolio</a>
 </h3>
 
 <br>
