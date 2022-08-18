@@ -1,12 +1,16 @@
-<h2 align="center">Desenvolvedor Front-End.</h2>
+<h1 align="center">Desenvolvedor Front-end.</h1>
  
- <h3 align="left" height = 10px width = 5px >
-- Estudante de Banco de Dados
-<br>
-- Programações: Java, JavaScript, e SQL. 
-<br>  
-</h3>
+<h3> Estudante de Banco de dados </h2>
  
+---
+<h2>Habilidades e ferramentas</h2>
+
+|Back|Front|Data Base|Version Control|
+|---------|------------|------------|------------|
+|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></img>|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></img><img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></img>|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></img></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></img>|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><img width="40" height="40" style="background: #FFFFFF;" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></img>
+
+---
+ <!--
  <div style="display: inline_block"><br>
  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,13 +19,10 @@
  <!-- <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
 </div>
 
- <br>
-  <a href="https://www.linkedin.com/in/leonardo-petruncko-4051971a2/" target="_blank"><img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
- <br> <br>
 
-<h3 align="center">
+<h1 align="center">
 <a href="https://leonardopetruncko.github.io/">Portfolio</a>
-</h3>
+</h1>
 
 <br>
 
