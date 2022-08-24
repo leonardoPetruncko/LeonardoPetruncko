@@ -1,6 +1,6 @@
 <h1 align="center">Desenvolvedor Front-end.</h1>
  
-<h3> Estudante de Banco de dados </h2>
+<h3> Estudante de Banco de dados </h3>
  
 ---
 <h2>Habilidades e ferramentas</h2>
@@ -21,7 +21,7 @@
 
 
 <h1 align="center">
-<a href="https://leonardopetruncko.github.io/">Meu Portfolio</a>
+<a target="_blank" href="https://leonardopetruncko.github.io/">Meu Portfolio</a>
 </h1>
 
 <br>
