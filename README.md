@@ -1,8 +1,15 @@
-<h1 align="center">Desenvolvedor Front-end.</h1>
+<h1 align="center">Desenvolvedor de Software.</h1>
+
+<p>Olá me chamo Leonardo Petruncko Dos Santos 😉, tenho 20 anos moro em São Paulo Capital. Sou estudante de Banco de dados e apaixonado por Programação❤! 
+Ultimamente estou no 4° Semestre da faculdade e indo para meu último e quinto semestre da Faculdade 📚. Estou estudando para me tornar Desenvolvedor FullStack-JS MERN (Node. js, ExpressJS, MongoDB e React). Fique a Vontade e se quiser da uma olhada em alguns projetos meus -> </p> 
+
  
-<h3> Estudante de Banco de dados </h3>
  
----
+ <h4 align="left">
+<a target="_blank" href="https://leonardopetruncko.github.io/">🚀 Portfolio </a>
+</h4>
+  
+ 
 <h2>Habilidades e ferramentas</h2>
 
 |Back|Front|Data Base|Version Control|
@@ -18,11 +25,6 @@
  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <!-- <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
 </div>
-
-
-<h1 align="center">
-<a target="_blank" href="https://leonardopetruncko.github.io/">Meu Portfolio</a>
-</h1>
 
 <br>
 
