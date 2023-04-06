@@ -1,15 +1,12 @@
 <h1 align="center">Desenvolvedor de Software.</h1>
 
 <p>Olá me chamo Leonardo Petruncko Dos Santos 😉, tenho 20 anos moro em São Paulo Capital. Sou estudante de Banco de dados e apaixonado por Programação❤! 
-Ultimamente estou no 5° Semestre da faculdade e indo para meu último ano da Faculdade 📚. Estou estudando para me tornar Desenvolvedor FullStack-JS MERN (Node. js, ExpressJS, MongoDB e React). Fique a Vontade e se quiser da uma olhada em alguns projetos meus --->> </p> 
+Ultimamente estou no 5° Semestre da faculdade e indo para meu último ano da Faculdade 📚. Estou estudando para me tornar Desenvolvedor de Software. Fique a Vontade e se quiser da uma olhada em alguns projetos meus --->> </p> 
 
- 
- 
  <h4 align="left">
 <a target="_blank" href="https://leonardopetruncko.github.io/">🚀 Portfolio </a>
 </h4>
   
- 
 <h2>Habilidades e ferramentas</h2>
 
 |Back|Front|Data Base|Version Control|
