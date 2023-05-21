@@ -4,7 +4,7 @@
 Ultimamente estou no 5° Semestre da faculdade e indo para meu último ano da Faculdade 📚. Estou estudando para me tornar Desenvolvedor de Software. Fique a Vontade e se quiser da uma olhada em alguns projetos meus --->> </p> 
 
  <h4 align="left">
-<a target="_blank" href="https://leonardopetruncko.github.io/">🚀 Portfolio </a>
+<a target="_blank" href="https://leonardopetruncko.github.io/">🚀 Portfolio (Fechado temporiamente)</a>
 </h4>
   
 <h2>Habilidades e ferramentas</h2>
