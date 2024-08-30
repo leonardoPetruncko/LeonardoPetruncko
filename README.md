@@ -1,3 +1,43 @@
+
+# README
+
+[English](#english) | [Português](#português)
+
+---
+
+## <a name="english"></a>English
+
+Welcome to the project! Here you'll find information about how to set up and use this application.
+
+### Installation
+
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Start the application with `npm start`.
+
+### Usage
+
+- To run tests: `npm test`
+- To build the project: `npm run build`
+
+---
+
+## <a name="português"></a>Português
+
+Bem-vindo ao projeto! Aqui você encontrará informações sobre como configurar e usar esta aplicação.
+
+### Instalação
+
+1. Clone o repositório.
+2. Execute `npm install` para instalar as dependências.
+3. Inicie a aplicação com `npm start`.
+
+### Uso
+
+- Para executar os testes: `npm test`
+- Para compilar o projeto: `npm run build`
+
+
 <h1 align="center">Operational Governance Analyst</h1>
 
 <p>I hold a degree in Database Management from SENAC, and at 22 years old, I’m based in São Paulo. My passion for Programming and Data has driven me to build a solid career as an Operational Governance Analyst at Marsh, where I began as a Junior and currently work as a Mid-Level Analyst.
