@@ -1,4 +1,4 @@
-<h1 align="center">Desenvolvedor de Software.</h1>
+<h1 align="center">Operational Governance Analyst at Marsh</h1>
 
 <p>I hold a degree in Database Management from SENAC, and at 22 years old, I’m based in São Paulo. My passion for Programming and Data has driven me to build a solid career as an Operational Governance Analyst at Marsh, where I began as a Junior and currently work as a Mid-Level Analyst.
 
