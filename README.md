@@ -1,7 +1,6 @@
-
 # README
 
-[English](#english) | [Português](#português)
+[<img align="center" alt="English" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](#english) | [<img align="center" alt="Português" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](#português)
 
 ---
 
@@ -34,8 +33,6 @@ Bem-vindo ao projeto! Aqui você encontrará informações sobre como configurar
 
 ### Uso
 
-- Para executar os testes: `npm test`
-- Para compilar o projeto: `npm run build`
 
 
 <h1 align="center">Operational Governance Analyst</h1>
