@@ -8,44 +8,26 @@
 
 ## <a name="english"></a>English
 
-Welcome to the project! Here you'll find information about how to set up and use this application.
-
-### Installation
-
-1. Clone the repository.
-2. Run `npm install` to install dependencies.
-3. Start the application with `npm start`.
-
-### Usage
-
-- To run tests: `npm test`
-- To build the project: `npm run build`
-
----
-
-## <a name="português"></a>Português
-
-Bem-vindo ao projeto! Aqui você encontrará informações sobre como configurar e usar esta aplicação.
-
-### Instalação
-
-1. Clone o repositório.
-2. Execute `npm install` para instalar as dependências.
-3. Inicie a aplicação com `npm start`.
-
-### Uso
-
-
-
-<h1 align="center">Operational Governance Analyst</h1>
-
-<p>I hold a degree in Database Management from SENAC, and at 22 years old, I’m based in São Paulo. My passion for Programming and Data has driven me to build a solid career as an Operational Governance Analyst at Marsh, where I began as a Junior and currently work as a Mid-Level Analyst.
+I hold a degree in Database Management from SENAC, and at 22 years old, I’m based in São Paulo. My passion for Programming and Data has driven me to build a solid career as an Operational Governance Analyst at Marsh, where I began as a Junior and currently work as a Mid-Level Analyst.
 
 My experience includes managing and optimizing processes through advanced Excel spreadsheets and implementing automation to enhance operational efficiency. Additionally, I handle documents and develop Tkinter interfaces to facilitate data entry into spreadsheets. I use Python scripts, leveraging libraries such as Pandas, NumPy, and OPENPYXL, to analyze and integrate data, ensuring the integrity and accuracy of information in complex spreadsheets.
 
 I present data in dashboards using Power Query/DAX and automate routine file operations on SharePoint, creating processes that integrate spreadsheets with lists via Power Automate. Currently, I’m involved in a Power Apps project focused on communicating new credentials within the operations area.
 
-My goal is to continue developing solutions that optimize processes and drive efficiency in operations, always with a keen eye on data quality and accuracy </p> 
+My goal is to continue developing solutions that optimize processes and drive efficiency in operations, always with a keen eye on data quality and accuracy.
+
+---
+
+## <a name="português"></a>Português
+
+Sou formado em Banco de Dados pelo SENAC e tenho 22 anos, vivendo em São Paulo. Minha paixão por Programação e Dados me levou a construir uma carreira sólida como Analista de Governança Operacional na Marsh, onde comecei como Júnior e atualmente atuo como Pleno.
+
+Minha experiência inclui gerenciar e otimizar processos com o uso de planilhas Excel avançadas e implementar automações para elevar a eficiência operacional. Além disso, manipulo documentos e desenvolvo telas em Tkinter para facilitar a inserção de dados em planilhas. Utilizo scripts Python, combinando as bibliotecas Pandas, NumPy e OPENPYXL, para analisar e integrar dados, assegurando a integridade e a precisão das informações em planilhas complexas.
+
+Apresento dados em dashboards usando Power Query/DAX e automatizo operações rotineiras de arquivos no SharePoint, criando processos que integram planilhas ao Excel com listas por meio do Power Automate. Atualmente, estou envolvido em um projeto de Power Apps focado em comunicar novas credenciais na área de operação.
+
+Meu objetivo é continuar desenvolvendo soluções que otimizem processos e promovam a eficiência nas operações, sempre com um olhar atento à qualidade e precisão dos dados.
+
 
   <!--<h4 align="left">
 <a target="_blank" href="https://leonardopetruncko.github.io/">🚀 Portfolio (Fechado temporiamente)</a>
