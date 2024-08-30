@@ -6,7 +6,7 @@ My experience includes managing and optimizing processes through advanced Excel 
 
 I present data in dashboards using Power Query/DAX and automate routine file operations on SharePoint, creating processes that integrate spreadsheets with lists via Power Automate. Currently, I’m involved in a Power Apps project focused on communicating new credentials within the operations area.
 
-My goal is to continue developing solutions that optimize processes and drive efficiency in operations, always with a keen eye on data quality and accuracy --->></p> 
+My goal is to continue developing solutions that optimize processes and drive efficiency in operations, always with a keen eye on data quality and accuracy </p> 
 
   <!--<h4 align="left">
 <a target="_blank" href="https://leonardopetruncko.github.io/">🚀 Portfolio (Fechado temporiamente)</a>
