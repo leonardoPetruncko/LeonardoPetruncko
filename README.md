@@ -4,8 +4,6 @@
 
 <div align="center">
   
-<div align="center">
-  
 [<img align="center" alt="English" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](#english)  |  [<img align="center" alt="Português" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](#português)
 
 </div>
